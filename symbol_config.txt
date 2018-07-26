@@ -1,0 +1,6 @@
+﻿#配置库文件名及对应的符号表文件路径
+#推荐通过库文件的md5值来适配符号表文件
+#格式：xxx.so xxx.sym
+
+#libunity.so ../libunity-il2cpp-armeabiv7.sym.so
+libil2cpp.so ../libil2cpp-0.5.0-v42323.sym
